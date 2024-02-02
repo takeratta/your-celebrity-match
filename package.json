@@ -18,11 +18,11 @@
     "extend": "^3.0.1",
     "helmet": "^3.9.0",
     "jade": "^1.11.0",
-    "metrics-tracker-client": "^0.2.3",
+    "metrics-tracker-client": "^0.4.1",
     "mongoose": "^4.12.2",
     "q": "^2.0.3",
     "twitter": "^0.2.13",
-    "watson-developer-cloud": "^2.41.1"
+    "watson-developer-cloud": "^4.0.1"
   },
   "devDependencies": {
     "codecov": "^3.0.0",
