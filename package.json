@@ -19,7 +19,7 @@
     "helmet": "^3.9.0",
     "jade": "^1.11.0",
     "metrics-tracker-client": "^0.2.3",
-    "mongoose": "^4.12.2",
+    "mongoose": "^8.8.3",
     "q": "^2.0.3",
     "twitter": "^0.2.13",
     "watson-developer-cloud": "^2.41.1"
